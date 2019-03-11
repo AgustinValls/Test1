@@ -5,4 +5,7 @@ public class C11 {
     public String m2() {
         return "m2";
     }
+    public String mV() {
+        return "mV";
+    }
 }
